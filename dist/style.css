@@ -1,0 +1,65 @@
+button {
+    width: 20%;
+    height: 10rem;
+    font-size: x-large;
+    background-color: blue;
+    position: relative;
+    margin-bottom: 0rem;
+    align-items: center;
+}
+
+#contentMenu {
+    align-items: center;
+}
+
+#menu {
+    align-items: center;
+    display: block;
+    text-align: center;
+    margin: auto;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+#content {
+    align-items: center;
+}
+
+#homeButton {
+    background-image: url('home-md.png');
+    background-size: contain;
+    border-radius: 20%;
+    background-color: rgba(100, 14, 2, 0);
+    -webkit-text-fill-color: white;
+    text-align: center;
+  }
+
+#searchButton {
+    background-image: url('search.png');
+    background-size: contain;
+    border-radius: 20%;
+    background-color: rgba(100, 14, 2, 0);
+    -webkit-text-fill-color: white;
+    text-align: center;
+}
+
+#messageButton {
+    background-image: url('message.png');
+    background-size: contain;
+    border-radius: 20%;
+    background-color: rgba(100, 14, 2, 0);
+    -webkit-text-fill-color: white;
+    text-align: center;
+}
+
+#profileButton {
+    background-image: url('profile.png');
+    background-size: contain;
+    border-radius: 20%;
+    background-color: rgba(100, 14, 2, 0);
+    -webkit-text-fill-color: white;
+    text-align: center;    
+}
+  
